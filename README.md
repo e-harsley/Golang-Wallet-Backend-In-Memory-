@@ -81,7 +81,5 @@ The module path is `github.com/e_harsley/golang_backend_test` (see `go.mod`). If
 - This project intentionally avoids external dependencies for clarity.
 - The in-memory repository is suitable for demos and tests; swap it for a real database-backed implementation for production use.
 
-### License
-MIT or similar — specify as needed for your use case.
 
 
